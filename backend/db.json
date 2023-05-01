@@ -1,0 +1,23 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "marca": "Adidas",
+      "modelo": "Bunny",
+      "precio": 500
+    },
+    {
+      "id": 2,
+      "marca": "Nike",
+      "modelo": "Jordan",
+      "precio": 200
+    },
+    {
+      "marca": "Lenovo",
+      "modelo": "Legion",
+      "precio": "500",
+      "id": 4
+    }
+  ],
+  "favoritos": []
+}
